@@ -16,3 +16,7 @@ postgres_data/
 # Système
 .DS_Store
 Thumbs.db
+
+# Local virtual env / db
+backend/.venv/
+backend/db.sqlite3
